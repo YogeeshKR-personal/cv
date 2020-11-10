@@ -1,0 +1,85 @@
+h1{
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+p
+{
+  font-family: 'Montserrat', sans-serif;
+}
+body
+{
+text-align: center;
+margin: 0;
+font-family: 'Merriweather', serif;
+
+
+}
+.Top_container{
+  padding-top:100px;
+  background-color: #dbf6e9;
+  position: relative;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+.img1{
+  border-radius: 100px;
+}
+
+.auto{
+  margin: 30px;
+  border-radius: 100px;
+  width: 25%;
+  float: left;
+}
+.web-dev{
+  border-radius: 100px;
+ margin: 30px;
+  width: 25%;
+  float: right;
+
+}
+
+.name{
+  font-size:5rem;
+}
+.para1{
+  font-size: 1.75rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+.skill-row1{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}

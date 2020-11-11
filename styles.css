@@ -11,6 +11,14 @@ h3{
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
 }
+hr{
+  color: #EAF6F6;
+  width: 5%;
+  border-style: dotted none none;
+  border-spacing: 200px;
+  border-width: 5px;
+  border-color: grey;
+}
 a{
   color: #11999E;
 }
@@ -24,6 +32,13 @@ text-align: center;
 margin: 0;
 font-family: 'Merriweather', serif;
 
+
+}
+.bottom-container
+{
+  width: auto;
+  text-align: center;
+  background-color: #66BFBF;
 
 }
 .Top_container{
@@ -60,6 +75,10 @@ font-family: 'Merriweather', serif;
   width: 25%;
   float: right;
 
+}
+.contact-me
+{
+  margin-top: 0;
 }
 
 .name{
